@@ -5,19 +5,19 @@ Simple network sharing program
 ## Client
 To upload or download a file you must perform the following actions:
 
-1. Switch to client mode using `c`
-2. Select the file you want to upload or save a downloaded file to using `file`
-3. Set the server address using `conaddr {url}`
-4. Open a connection to the server using `con`
-5. Use either `upload` or `download`
+1. Switch to client mode using `c`.
+2. Select the file you want to upload or save a downloaded file to using `file`.
+3. Set the server address using `conaddr {url}`.
+4. Open a connection to the server using `con`.
+5. Use either `upload` or `download`.
 
 ## Server
 To set up the server and then upload or download a file you must perform the following actions:
 
-1. Switch to server mode using `s`
-2. Select the file you want to upload or save a downloaded file to using `file`
-3. Start the server and wait for a connection using `serveropen`. This will block untill a connection is made
-4. Use either `serverupload` or `serverdownload`
+1. Switch to server mode using `s`.
+2. Select the file you want to upload or save a downloaded file to using `file`.
+3. Start the server and wait for a connection using `serveropen`. This will block untill a connection is made.
+4. Use either `serverupload` or `serverdownload`.
 
 ## Commands
 ### Switch Commands
