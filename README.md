@@ -3,7 +3,10 @@ Simple network sharing program
 
 ## Instructions
 ## Client
-To 
+To upload or download a file you must perform the following actions.
+1. Switch to client mode using `c`.
+2. Select the file you want to upload or save a downloaded file to using `file`.
+3. Set the server address using `conaddr {url}`.
 
 ## Server
 
