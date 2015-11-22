@@ -2,12 +2,18 @@
 Simple network sharing program
 
 ## Instructions
+## Client
+To 
+
+## Server
+
 
 ## Commands
 ### Switch Commands
 * q - Quit
 * c - Set Client Mode
 * s - Set Server Mode
+* file - Choose file to process
 
 ### Client Commands
 * conaddr {url} - Set the connection server address to {url}
