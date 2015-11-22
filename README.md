@@ -45,3 +45,4 @@ To set up the server and then upload or download a file you must perform the fol
 ## Changelog
 ### Version 0.3
 * Added server > client transfer
+* Added new client connection command to server
