@@ -36,7 +36,7 @@ To set up the server and then upload or download a file you must perform the fol
 * clientclose - Stop client mode
 
 ### Server Commands
-* serveropen - Start the server (Blocks)
+* serveropen - Start the server and wait for client connection (Blocks)
 * servernew - Wait for new client connection (Blocks)
 * serverupload - Upload file to client (Blocks)
 * serverdownload - Download file from client (Blocks)
