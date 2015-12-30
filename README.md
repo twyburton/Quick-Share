@@ -43,6 +43,10 @@ To set up the server and then upload or download a file you must perform the fol
 * serverclose - Stop server mode and shutdown server
 		
 ## Changelog
+### Version 0.5
+* Added easier console
+* Fixed error when transferring a file less than 40 bytes
+
 ### Version 0.3
 * Added server > client transfer
 * Added new client connection command to server
